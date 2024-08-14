@@ -1,0 +1,91 @@
+			Projeto 2
+
+1*
+1- D
+2-<head> <title> minha pagina <tittle> <head>
+3- <html> , <head> x2 , <Body> x2 <html>
+
+2*
+1- C
+2- Botão- Principal , #800 , Back , var
+3- Back , var , color , var-- fonte
+
+3*
+1- A
+2- <img> ''produ'', alt
+3- .conteudo , back , url , back , no-repeat
+
+4*
+1- D
+2- <a h> , class , >visite
+3- .costumiza , back, var , padding , 2em
+
+5*
+1- D
+2- .botão , back , trans , border , 5px
+3- back , trans , border , 1px , var
+
+6*
+1- B
+2- Font-size , 32px , color , black , font , 250 
+3- Font-family , inter , fonte , 20px , font-w , 500
+
+7*
+1- D
+2- PULA
+3- Margin , 10px , 2px , padding , 5px
+
+8*
+1- D
+2- Pula
+3- .container , font-size , 24px , text , center
+
+9*
+1- D
+2- <section> , <h1> , <img> <h2> <P>
+3- <section> , class , ''principal'' , <section>
+
+10*
+1- A
+2- display, inline , margin , 2px
+3-.botão- principal , back , green
+
+11* 
+1- A
+2- back Img  , url , back , no- repeat 
+3- Pula 
+
+12*
+1- A
+2- <footer> , class , '' rodape'' , <footer> 
+3-Pula
+
+13*
+1- D
+2- .muda-tamanho , :active , font-size , 30px
+3- .mudar-cor , :hover , color , orage 
+
+14*
+1- C
+2- Plataforma, desen , rede , compartilhar
+3- Escrever email, criar , escolher , confirmar
+
+15* 
+1- D
+2- Clicar , definir , definir visi
+3- Upload , chose , commit 
+
+16*
+1- A
+2- Pula
+3- .modifica , back , trans , font-size , 32px
+
+17*
+1- B
+2- Pula
+3- Acessar , entrar , continuar , autorizar 
+
+18*
+1- B
+2- .Botão , hover , back , green , color, black
+3- Salvar , acessar , fazer 
